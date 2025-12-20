@@ -17,8 +17,8 @@
   #  url: /year-archive/
 
 main:
-  #- title: "Publications"
-    #url: /publications/    
+  - title: "Publications"
+    url: /publications/    
 
   - title: "Teaching"
     url: /teaching/    
