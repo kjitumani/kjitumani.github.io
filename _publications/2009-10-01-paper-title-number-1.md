@@ -3,7 +3,7 @@ title: "Black holes in thermal bath live shorter: implications for primordial bl
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '[View on arXiv:2501.11925](https://arxiv.org/abs/2501.11925)'
 paperurl: 'https://arxiv.org/pdf/2501.11925.pdf'
 ---
 
