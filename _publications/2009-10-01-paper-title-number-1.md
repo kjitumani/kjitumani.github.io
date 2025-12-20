@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Black holes in thermal bath live shorter: implications for primordial black holes"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/pdf/2501.11925.pdf'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+**Abstract**
+
+Hawking radiation from a non-extremal black hole is known to be approximately Planckian. The thermal spectrum receives multiple corrections including greybody factors and due to kinematical restrictions on the infrared and ultraviolet frequencies. We show that another significant correction to the spectrum arises if the black hole is assumed to live in a thermal bath and the emitted radiation gets thermalised at the bath temperature. This modification reshapes the thermal spectrum, and leads to appreciable deviation from standard results including modification in the decay rate of black holes. We argue that this altered decay rate has significance for cosmology and, in a realistic setting, show that it alters the life time of primordial black holes (PBHs) in the early universe. In particular, the very light PBHs formed right after the end of inflation decay faster which may have interesting phenomenological implications.
