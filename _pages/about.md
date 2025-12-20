@@ -28,3 +28,13 @@ Research Interests:
 - General Relativity: Black hole metrics and spacetime geometry
 
 - Early Universe Cosmology: Inflation and Dark Matter candidates
+
+I am proficient in **Python** and **Mathematica** for cosmological simulations and data analysis. 
+
+### Education
+* **Ph.D. in Physics**, IIT Guwahati (Ongoing)
+* **M.Sc. in Physics**, Gauhati University
+* **B.Sc. in Physics**, Nalbari College
+
+### Contact
+If you are interested in my research or have questions about my recent preprints, feel free to contact me at `jitumani@iitg.ac.in`.
