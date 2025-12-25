@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 Education
 ======
 * **Ph.D. in Physics** (2022 - Present)
@@ -53,11 +55,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
