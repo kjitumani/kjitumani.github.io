@@ -24,7 +24,7 @@ mathjax: true
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "My_photo.jpeg" #"profile.png"
   name             : "Jitumani Kalita"
   pronouns         : # example: "she/her"  
   bio              : "Exploring the physics of the early Universe cosmos."
