@@ -36,6 +36,8 @@ Education
   * Jagyabhumi Adarsha Jatiya Vidyalaya
   * Percentage: 89.0%
 
+------
+
 Awards & Achievements
 ======
 * **GATE Qualified** (2022) - *All India Rank: 739*
@@ -43,11 +45,14 @@ Awards & Achievements
 * **NEC Merit Scholarship** (2020 - 2022) - Awarded by North Eastern Council for academic excellence during M.Sc.
 * **Ishan Uday National Scholarship** (2017 - 2020) - Special scholarship scheme by UGC for North Eastern Region during B.Sc.
 
+------
+
 Technical Skills
 ======
 * **Programming & Software:** Python, Mathematica, LaTeX
 * **Languages:** English, Hindi, Assamese
 
+------
 
 Publications
 ======
@@ -60,7 +65,9 @@ Publications
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
-  
+
+------
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
