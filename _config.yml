@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jitumani Kalita"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jitumani Kalita"
 description              : &description "Ph.D. Student | IIT Guwahati | Primordial Black Holes"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ mathjax: true
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jitumani"
+  name             : "Jitumani Kalita"
   pronouns         : # example: "she/her"  
   bio              : "Exploring the physics of the early Universe cosmos."
   location         : "Guwahati, Assam, India"
